@@ -12,11 +12,11 @@ const AUDIO_FILE = "assets/song.mp3";
 // 2) PHOTOS: put images inside the assets folder, then list them here.
 //    Leave src empty ("") to show a placeholder that can be tapped to upload.
 const PHOTOS = [
-  { src: "", caption: "The day I knew ❤️" },
-  { src: "", caption: "Your smile, my favourite view" },
-  { src: "", caption: "Our little adventures" },
-  { src: "", caption: "Moments I keep forever" },
-  { src: "", caption: "Just us, being us" },
+  { src: "assets/photo1.jpg", caption: "The day I knew ❤️" },
+  { src: "assets/photo2.jpg", caption: "Your smile, my favourite view" },
+  { src: "assets/photo3.jpg", caption: "Our little adventures" },
+  { src: "assets/photo4.jpg", caption: "Moments I keep forever" },
+  { src: "assets/photo5.jpg", caption: "Just us, being us" },
   { src: "", caption: "More chapters to come…" }
 ];
 /* ========================================= */
